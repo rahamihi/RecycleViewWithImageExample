@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RecycleViewWithImageExample</string>
+
+    <string-array name="film">
+        <item>Pulp Fiction</item>
+        <item>Titanic </item>
+        <item>The Dark Knight </item>
+        <item>Life Is Beautiful </item>
+        <item>The Godfather</item>
+        <item>Pulp Fiction</item>
+        <item>Titanic </item>
+        <item>The Dark Knight </item>
+        <item>Life Is Beautiful </item>
+        <item>The Godfather</item>
+        <item>Pulp Fiction</item>
+        <item>Titanic </item>
+        <item>The Dark Knight </item>
+        <item>Life Is Beautiful </item>
+        <item>The Godfather</item>
+    </string-array>
+    <string-array name="director">
+        <item>Quentin Tarantino</item>
+        <item>James Cameron </item>
+        <item>Christopher Nolan</item>
+        <item>Roberto Benigni</item>
+        <item>Francis Ford Coppola</item>
+        <item>Quentin Tarantino</item>
+        <item>James Cameron </item>
+        <item>Christopher Nolan</item>
+        <item>Roberto Benigni</item>
+        <item>Francis Ford Coppola</item>
+        <item>Quentin Tarantino</item>
+        <item>James Cameron </item>
+        <item>Christopher Nolan</item>
+        <item>Roberto Benigni</item>
+        <item>Francis Ford Coppola</item>
+
+
+    </string-array>
+
+</resources>
